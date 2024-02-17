@@ -20,16 +20,13 @@
 
 请使用 git 进行安装，以方便后续升级。在 Yunzai-Bot 根目录夹打开终端，运行下述指令之一<br>
 
-// 使用gitee
-```
-git clone --depth=1 https://gitee.com/wuliya336/GT-Manual-Plugin.git ./plugins/GT-Manual-Plugin/
-pnpm install --filter=GT-Manual-plugin
-```
 // 使用github
 
 
 ```
-git clone --depth=1 https://github.com/wuliya336/GT-Manual-Plugin.git ./plugins/GT-Manual-Plugin/
+git clone --depth=1 https://github.com/misaka20002/GT-Manual-Plugin.git ./plugins/GT-Manual-Plugin/
+```
+```
 pnpm install --filter=GT-Manual-plugin
 ```
 
